@@ -1,6 +1,6 @@
 # SQuADGPT2CPT
 
-Concise experiments fine-tuning GPT-2 for extractive QA on SQuAD v1.1 with LoRA, dynamic quantization, and cyclic precision training. The repo is notebook-driven and aims to be easy to run and reproduce.
+Fine-tuning GPT-2 for extractive QA on SQuAD v1.1 with LoRA, dynamic quantization, and cyclic precision training. The repo is notebook-driven and aims to be easy to run and reproduce.
 
 ## Contents
 - `gpt2-lora-question-answering.ipynb` — Baseline GPT‑2 + LoRA fine‑tuning on SQuAD v1.1
